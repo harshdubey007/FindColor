@@ -1,8 +1,8 @@
 {
-  "name": "FindColor",
+  "name": "findcolor",
   "version": "1.0.0",
   "description": "",
-  "main": "colorGame.js",
+  "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d findColor"
   },
@@ -10,14 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/harshdubey007/FindColor.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/harshdubey007/FindColor/issues"
   },
-  "homepage": "https://harshdubey007.github.io/FindColor",
+  "homepage": "https://github.com/harshdubey007/FindColor#readme",
   "dependencies": {
-    "ghpages": "0.0.10"
+    "gh-pages": "^2.0.1"
   }
 }
